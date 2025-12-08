@@ -3,12 +3,11 @@ export libsilo
 
 using HDF5_jll
 using Zlib_jll
-using libaec_jll
 using MPICH_jll
 JLLWrappers.@generate_wrapper_header("Silo")
-JLLWrappers.@declare_library_product(libsilo, "libsiloh5.so.4")
+JLLWrappers.@declare_library_product(libsilo, "libsiloh5.so.412")
 function __init__()
-    JLLWrappers.@generate_init_header(HDF5_jll, Zlib_jll, libaec_jll, MPICH_jll, MPIPreferences)
+    JLLWrappers.@generate_init_header(HDF5_jll, Zlib_jll, MPICH_jll, MPIPreferences)
     JLLWrappers.@init_library_product(
         libsilo,
         "lib/libsiloh5.so",

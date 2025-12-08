@@ -1,786 +1,467 @@
 [[Silo]]
 arch = "aarch64"
-git-tree-sha1 = "0c91044d43c169c69bfac455a89ef674f811db29"
+git-tree-sha1 = "44503463fb196a1d9ff52afb647bc5f0261f96df"
 mpi = "mpich"
 os = "macos"
 
     [[Silo.download]]
-    sha256 = "ad49598adf6dcb9205e256b07721c285ed75bd23b5a1415a7d1a4267aa176531"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.aarch64-apple-darwin-mpi+mpich.tar.gz"
+    sha256 = "3c9fa43e878973a3b91d8c0ecf910cfcedd96abd33d3700f762cdca139a04588"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.aarch64-apple-darwin-mpi+mpich.tar.gz"
 [[Silo]]
 arch = "aarch64"
-git-tree-sha1 = "4d8d18bf66d94e00aa74b3f3e0b1dd44f04823f6"
+git-tree-sha1 = "cd21400def471ed37a55a0eaabc8e3e76b8aaf0d"
 mpi = "mpitrampoline"
 os = "macos"
 
     [[Silo.download]]
-    sha256 = "4ed3cffcf55fd73abbd88e138c2cb95d2764fc2e9641c0d97bb28e57ec005b7e"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.aarch64-apple-darwin-mpi+mpitrampoline.tar.gz"
+    sha256 = "94aeda396702fe6f6bbc01ab5d78d736d19210adb74d741eeb5235c3f2c807f9"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.aarch64-apple-darwin-mpi+mpitrampoline.tar.gz"
 [[Silo]]
 arch = "aarch64"
-git-tree-sha1 = "e4ae66f179cd004f39f71d5f718843cea5277db7"
+git-tree-sha1 = "25c446a901b88ea4b92c55ba7c2def75498e2f0e"
 mpi = "openmpi"
 os = "macos"
 
     [[Silo.download]]
-    sha256 = "82359f02aff6a9f1d61edf4db626dcbeb656924244fcd7fd5d909c66a76f7aec"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.aarch64-apple-darwin-mpi+openmpi.tar.gz"
+    sha256 = "3c35f38135bd9d6a0aa3572bd5224af5ec7f4f8e65a77ac27e7d4375b621b054"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.aarch64-apple-darwin-mpi+openmpi.tar.gz"
 [[Silo]]
 arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "a0ae691861246fc95dad0c77887886405f375ebe"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "547bc3a42e1f1fb56c1583bee541a7af5e79429c"
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[Silo.download]]
-    sha256 = "a3b478145246ae26e02ac633152a6f839ef1cc3a2bab1cf15e7b7a55511ce285"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.aarch64-linux-gnu-cxx03-mpi+mpich.tar.gz"
+    sha256 = "4fc2c44d855b1803d553d498a979881fc66de03dde23dc84caef72e1b5f5fe8c"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.aarch64-linux-gnu-cxx11-mpi+mpich.tar.gz"
 [[Silo]]
 arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "6398f5febeeb6c4f8f88fbdf34997ddcdfff6ac8"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "91da739acb4d0bc16c1e4b39afbafdceadd1df06"
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[Silo.download]]
-    sha256 = "f4690f6c8a030a88e3d6e62b3c192cad3eae997787643b4bd50ca231f4950962"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.aarch64-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "90753dccbbc18ed03ceb0096e729740ff5cf0e36e456e0eeaa15a79ba3546003"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.aarch64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
 [[Silo]]
 arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "9fdfd81c364f195bbfd5d642002bacb4baf18551"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7386348327215db5216427d949a05e8fefc98caa"
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[Silo.download]]
-    sha256 = "e66795665a5127cac7e3c3920a8902a18be2911ab6a25aaacf36c401e72a4844"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.aarch64-linux-gnu-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "d392b955c3088a2d3c837d5fc26e75e2337d72b27af101fadd47f86223c39b1a"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.aarch64-linux-gnu-cxx11-mpi+openmpi.tar.gz"
 [[Silo]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a0ae691861246fc95dad0c77887886405f375ebe"
-libc = "glibc"
-mpi = "mpich"
-os = "linux"
-
-    [[Silo.download]]
-    sha256 = "a3b478145246ae26e02ac633152a6f839ef1cc3a2bab1cf15e7b7a55511ce285"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.aarch64-linux-gnu-cxx11-mpi+mpich.tar.gz"
-[[Silo]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "6398f5febeeb6c4f8f88fbdf34997ddcdfff6ac8"
-libc = "glibc"
-mpi = "mpitrampoline"
-os = "linux"
-
-    [[Silo.download]]
-    sha256 = "f4690f6c8a030a88e3d6e62b3c192cad3eae997787643b4bd50ca231f4950962"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.aarch64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
-[[Silo]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "9fdfd81c364f195bbfd5d642002bacb4baf18551"
-libc = "glibc"
-mpi = "openmpi"
-os = "linux"
-
-    [[Silo.download]]
-    sha256 = "e66795665a5127cac7e3c3920a8902a18be2911ab6a25aaacf36c401e72a4844"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.aarch64-linux-gnu-cxx11-mpi+openmpi.tar.gz"
-[[Silo]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "3f9bdfef2360fa3523cefab9995d0fafa55cbe8c"
+git-tree-sha1 = "bb75a63b8a319c8c4770710b6fccc8f84296d26e"
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[Silo.download]]
-    sha256 = "1090bf93c32bfd169ef43f5fa3e32c687f12b162b8495ebfdfe0802ce2bc0ddd"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.aarch64-linux-musl-cxx03-mpi+mpich.tar.gz"
+    sha256 = "631e1dee640ad55f36e8d325b114ee21f6d2106db7d20019504730235d045179"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.aarch64-linux-musl-cxx11-mpi+mpich.tar.gz"
 [[Silo]]
 arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "501f27553c36ce9efa1d254ae7dad21ec5605798"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6036543c9b2f6d380fbaf5a748fe9f85d57b92ba"
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[Silo.download]]
-    sha256 = "0c082ce216302ee02652e34cbe2abafc171dfe7485353ebb03fbb62210c41655"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.aarch64-linux-musl-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "38ca7b7adddc9bc681aae77de0ef85bb4213acc3ac122f52bdf11719b38b2ad4"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.aarch64-linux-musl-cxx11-mpi+openmpi.tar.gz"
 [[Silo]]
 arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "3f9bdfef2360fa3523cefab9995d0fafa55cbe8c"
-libc = "musl"
-mpi = "mpich"
-os = "linux"
-
-    [[Silo.download]]
-    sha256 = "1090bf93c32bfd169ef43f5fa3e32c687f12b162b8495ebfdfe0802ce2bc0ddd"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.aarch64-linux-musl-cxx11-mpi+mpich.tar.gz"
-[[Silo]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "501f27553c36ce9efa1d254ae7dad21ec5605798"
-libc = "musl"
-mpi = "openmpi"
-os = "linux"
-
-    [[Silo.download]]
-    sha256 = "0c082ce216302ee02652e34cbe2abafc171dfe7485353ebb03fbb62210c41655"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.aarch64-linux-musl-cxx11-mpi+openmpi.tar.gz"
-[[Silo]]
-arch = "aarch64"
-git-tree-sha1 = "c31bcbfbf9a7a575f1f4986dbcfdd26bfa408dbb"
+git-tree-sha1 = "e159237bc15d15242bb0661adcca0e447d8ccda2"
 mpi = "mpich"
 os = "freebsd"
 
     [[Silo.download]]
-    sha256 = "006f1ef2ebff09bfbea0bd06dea53081050f35b19226c6753aaff33ae412a905"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.aarch64-unknown-freebsd-mpi+mpich.tar.gz"
+    sha256 = "e81374b51b4ecc8b4946b4e34523e8385808c136bb62d7a95aa6bf851c3462e1"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.aarch64-unknown-freebsd-mpi+mpich.tar.gz"
 [[Silo]]
 arch = "aarch64"
-git-tree-sha1 = "27e8b42c432df533df7fc7a196c0b4f9e88b46f1"
+git-tree-sha1 = "464099eb55c904048bb932c52ebc05b7671a325d"
 mpi = "mpitrampoline"
 os = "freebsd"
 
     [[Silo.download]]
-    sha256 = "6f81b6144bbb662dfdec34050969a09a7966e2fb1d59cd1a0b5728fa5750108d"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.aarch64-unknown-freebsd-mpi+mpitrampoline.tar.gz"
+    sha256 = "a72703cc41a62271cd478d293560b7bfa5fa139df510b543c99a30e34ee83700"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.aarch64-unknown-freebsd-mpi+mpitrampoline.tar.gz"
 [[Silo]]
 arch = "aarch64"
-git-tree-sha1 = "a688d26172aa973bb1b49e601a6cb583595346ff"
+git-tree-sha1 = "ec30fc8dfbb0c448336b6229e9f25ea4a640cc03"
 mpi = "openmpi"
 os = "freebsd"
 
     [[Silo.download]]
-    sha256 = "b987855df218087f698ab8db889fee93244f1b025bbc40def65c157daa2947fa"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.aarch64-unknown-freebsd-mpi+openmpi.tar.gz"
+    sha256 = "eeb6abafc2cfc19782a86dccf4e220ef4438025d13f296c735a4b8c8a42a038e"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.aarch64-unknown-freebsd-mpi+openmpi.tar.gz"
 [[Silo]]
 arch = "armv6l"
 call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "4f4c3b38ec5926f49f3c88283a59c5d0a0c3ad88"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "040abeeee894c955a21b5500e3184dfb3d30028a"
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[Silo.download]]
-    sha256 = "95ec7b8b92d9c333517868ada15410df55845edd2248a8f5d155974aa713b67e"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.armv6l-linux-gnueabihf-cxx03-mpi+mpich.tar.gz"
+    sha256 = "7de33321ea8d81535463b62662467c792fba1cd27878376f8a3feb3206fd8cb2"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.armv6l-linux-gnueabihf-cxx11-mpi+mpich.tar.gz"
 [[Silo]]
 arch = "armv6l"
 call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "da33e1d2f0516c51db6787c21cce5e368dd25c89"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3ff683f3f930d43daeae4b14d38756bad2a77289"
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[Silo.download]]
-    sha256 = "a352a3151d06292501cbfe866aebc357a4a53652bb2a5f0d176859cd853627c0"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.armv6l-linux-gnueabihf-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "ed43f4b67daaabbd12251343d37bdd6524db252fa1320fd80299afe5726144bc"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.armv6l-linux-gnueabihf-cxx11-mpi+mpitrampoline.tar.gz"
 [[Silo]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4f4c3b38ec5926f49f3c88283a59c5d0a0c3ad88"
+git-tree-sha1 = "025fa8a16e5292a87949e04b875bce7e10217d01"
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[Silo.download]]
+    sha256 = "5bf7cc73cd7bffc9eeddbfbfd882e83ce07b93fd7bd22f617f19bd53209f2d0d"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.armv6l-linux-musleabihf-cxx11-mpi+mpich.tar.gz"
+[[Silo]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f2caeae29072c4dc4d0f155c8ae86d4605a41a65"
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[Silo.download]]
+    sha256 = "a046dca89cd046183f90c9f18427d7991d9d915ad57ba863fbccf3e077fe32ec"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.armv6l-linux-musleabihf-cxx11-mpi+openmpi.tar.gz"
+[[Silo]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4256c19ee2dc9631bb00a5ce9a583388c4546057"
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[Silo.download]]
-    sha256 = "95ec7b8b92d9c333517868ada15410df55845edd2248a8f5d155974aa713b67e"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.armv6l-linux-gnueabihf-cxx11-mpi+mpich.tar.gz"
+    sha256 = "dcdcdef2efcf679d46e554db566a1d199cc002cd5f3960532a1fe50474b8d7f5"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.armv7l-linux-gnueabihf-cxx11-mpi+mpich.tar.gz"
 [[Silo]]
-arch = "armv6l"
+arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "da33e1d2f0516c51db6787c21cce5e368dd25c89"
+git-tree-sha1 = "ca5b535104e66bbc1f397822afa25bbdac5bafba"
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[Silo.download]]
-    sha256 = "a352a3151d06292501cbfe866aebc357a4a53652bb2a5f0d176859cd853627c0"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.armv6l-linux-gnueabihf-cxx11-mpi+mpitrampoline.tar.gz"
-[[Silo]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "c4e31973a9cf1351eaca3eb0bd557cc3dd72e8e8"
-libc = "musl"
-mpi = "mpich"
-os = "linux"
-
-    [[Silo.download]]
-    sha256 = "ba9c9f9601b14d51aaaba7ae10bfeb19a893a87d9fa8404d3cd9eadf8954f8b6"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.armv6l-linux-musleabihf-cxx03-mpi+mpich.tar.gz"
-[[Silo]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "def87ac497e6dcb2de8d87dd45a0942b10c18662"
-libc = "musl"
-mpi = "openmpi"
-os = "linux"
-
-    [[Silo.download]]
-    sha256 = "180f51c43c4487f046b9ace1c81e73908d2bacf4a2b12f424a95420cbb439c2f"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.armv6l-linux-musleabihf-cxx03-mpi+openmpi.tar.gz"
-[[Silo]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "c4e31973a9cf1351eaca3eb0bd557cc3dd72e8e8"
-libc = "musl"
-mpi = "mpich"
-os = "linux"
-
-    [[Silo.download]]
-    sha256 = "ba9c9f9601b14d51aaaba7ae10bfeb19a893a87d9fa8404d3cd9eadf8954f8b6"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.armv6l-linux-musleabihf-cxx11-mpi+mpich.tar.gz"
-[[Silo]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "def87ac497e6dcb2de8d87dd45a0942b10c18662"
-libc = "musl"
-mpi = "openmpi"
-os = "linux"
-
-    [[Silo.download]]
-    sha256 = "180f51c43c4487f046b9ace1c81e73908d2bacf4a2b12f424a95420cbb439c2f"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.armv6l-linux-musleabihf-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "9d142701e1c0791abbf87d737f584b07dea95a35ccee3b0a36f5ac8dff77c9b6"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.armv7l-linux-gnueabihf-cxx11-mpi+mpitrampoline.tar.gz"
 [[Silo]]
 arch = "armv7l"
 call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "ee0ad8cc07a2d1b963b20d534f172382ee4d929a"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "61b3754e7a17fb2c95cc4ffbfffcbcc3ea41244e"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[Silo.download]]
+    sha256 = "057daa030cae79199d39008e28b331f19af6997578562eebb824fe111b5630dc"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.armv7l-linux-gnueabihf-cxx11-mpi+openmpi.tar.gz"
+[[Silo]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1d0c65035d1adb7254cf083ee38cdb99de3b6f03"
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[Silo.download]]
+    sha256 = "0d69f0dc5f0a1c5c62fb812c3b17b5c88ca5807088292ddd764fcd2438ab6878"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.armv7l-linux-musleabihf-cxx11-mpi+mpich.tar.gz"
+[[Silo]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "53707cf5676656bacfb67c0b87ef54fdef1455e7"
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[Silo.download]]
+    sha256 = "12e3d271695f9e62379427f8b50e3fda0218caace58002e90248e1e263034dc6"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.armv7l-linux-musleabihf-cxx11-mpi+openmpi.tar.gz"
+[[Silo]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "27f34c877cf921c7105cf113156b81118d23061a"
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[Silo.download]]
-    sha256 = "d3a7ad77baf94c68968cfe12d6d4d39e60e0747f431cbea4ed5963b73ff05a90"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.armv7l-linux-gnueabihf-cxx03-mpi+mpich.tar.gz"
+    sha256 = "f99acbbc891ad57b267568aab8d4213bf7cec116c0d2b30da6aa197d4fcbf246"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.i686-linux-gnu-cxx11-mpi+mpich.tar.gz"
 [[Silo]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "973d06f431a12cef61dead214e1419d28ebcb148"
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "acf831891371ea92e0768ddf810f33842788410b"
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[Silo.download]]
-    sha256 = "ad89617e67734b9fffe397b8b5ad7ca68f0f4a3a1c9cdc9a29a005a6cad69c8b"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.armv7l-linux-gnueabihf-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "246690dea38df5cf782257b4a893d0e590c93fb4b9d187f190876c5fd8a14188"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.i686-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
 [[Silo]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "b99710d1663dddf0953ba75724f61d53ba95d3d1"
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1129d29938e0984d4821a9dd5419e1bd4f5c627c"
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[Silo.download]]
-    sha256 = "545758b53b8830223afa3f429dc1c8e70c985b8a44183c9740a719f3a2bfbbd9"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.armv7l-linux-gnueabihf-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "6f5b30f0849e9be9def8e09fc188dd324a3c21ac9ac3c08acf279a3d523e31ee"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.i686-linux-gnu-cxx11-mpi+openmpi.tar.gz"
 [[Silo]]
-arch = "armv7l"
-call_abi = "eabihf"
+arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ee0ad8cc07a2d1b963b20d534f172382ee4d929a"
-libc = "glibc"
-mpi = "mpich"
-os = "linux"
-
-    [[Silo.download]]
-    sha256 = "d3a7ad77baf94c68968cfe12d6d4d39e60e0747f431cbea4ed5963b73ff05a90"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.armv7l-linux-gnueabihf-cxx11-mpi+mpich.tar.gz"
-[[Silo]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "973d06f431a12cef61dead214e1419d28ebcb148"
-libc = "glibc"
-mpi = "mpitrampoline"
-os = "linux"
-
-    [[Silo.download]]
-    sha256 = "ad89617e67734b9fffe397b8b5ad7ca68f0f4a3a1c9cdc9a29a005a6cad69c8b"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.armv7l-linux-gnueabihf-cxx11-mpi+mpitrampoline.tar.gz"
-[[Silo]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "b99710d1663dddf0953ba75724f61d53ba95d3d1"
-libc = "glibc"
-mpi = "openmpi"
-os = "linux"
-
-    [[Silo.download]]
-    sha256 = "545758b53b8830223afa3f429dc1c8e70c985b8a44183c9740a719f3a2bfbbd9"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.armv7l-linux-gnueabihf-cxx11-mpi+openmpi.tar.gz"
-[[Silo]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "72c82489770254cc5cb9124534b864540ba67256"
+git-tree-sha1 = "d16a53ebad9f4e06d0bfc881e668fceeff12a61d"
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[Silo.download]]
-    sha256 = "9b80883f014d1d2af900b6214ca4d645c77495f45044876e2b25b1fa7e4a9b36"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.armv7l-linux-musleabihf-cxx03-mpi+mpich.tar.gz"
+    sha256 = "90f739f6bb35b4202f3911b73d12199ad35902907b518368b0f82cfffa5d0b65"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.i686-linux-musl-cxx11-mpi+mpich.tar.gz"
 [[Silo]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "974e2fa8425509d172c950e120ec2b2357cbb966"
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0aa2d5d01af57452cab96bb21596e88b1bef17c6"
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[Silo.download]]
-    sha256 = "4ef396e6a504afc4c67ea7cd190b6d453331b41984442c817b6468dd10cd5233"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.armv7l-linux-musleabihf-cxx03-mpi+openmpi.tar.gz"
-[[Silo]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "72c82489770254cc5cb9124534b864540ba67256"
-libc = "musl"
-mpi = "mpich"
-os = "linux"
-
-    [[Silo.download]]
-    sha256 = "9b80883f014d1d2af900b6214ca4d645c77495f45044876e2b25b1fa7e4a9b36"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.armv7l-linux-musleabihf-cxx11-mpi+mpich.tar.gz"
-[[Silo]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "974e2fa8425509d172c950e120ec2b2357cbb966"
-libc = "musl"
-mpi = "openmpi"
-os = "linux"
-
-    [[Silo.download]]
-    sha256 = "4ef396e6a504afc4c67ea7cd190b6d453331b41984442c817b6468dd10cd5233"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.armv7l-linux-musleabihf-cxx11-mpi+openmpi.tar.gz"
-[[Silo]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "46e5bb0436e109c0397e61acc3db017708b98742"
-libc = "glibc"
-mpi = "mpich"
-os = "linux"
-
-    [[Silo.download]]
-    sha256 = "eaf85e402a13ac4f06757f81e2d70bea04e433ffceccaab72906d7a736c8e55c"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.i686-linux-gnu-cxx03-mpi+mpich.tar.gz"
-[[Silo]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "4953c1da4a803a64654496103cbfe7edebc947fa"
-libc = "glibc"
-mpi = "mpitrampoline"
-os = "linux"
-
-    [[Silo.download]]
-    sha256 = "778fde863699f850690c661883bc6af370d59395088979f8fed7cfc45fed8dad"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.i686-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
-[[Silo]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "c9d2d00ed3977eb2b07acd7195af673460191725"
-libc = "glibc"
-mpi = "openmpi"
-os = "linux"
-
-    [[Silo.download]]
-    sha256 = "c07c0832a98946dd1bcea3a952432067555b825aa7fe6d05e6860831065875e4"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.i686-linux-gnu-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "495781724b0379a0a72566f0c2400fddf2ec8162f3577d63ca06389fd2ac3671"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.i686-linux-musl-cxx11-mpi+openmpi.tar.gz"
 [[Silo]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "46e5bb0436e109c0397e61acc3db017708b98742"
-libc = "glibc"
-mpi = "mpich"
-os = "linux"
+git-tree-sha1 = "cdd4edb8c3fc2fb6f602685471505498e6375834"
+mpi = "microsoftmpi"
+os = "windows"
 
     [[Silo.download]]
-    sha256 = "eaf85e402a13ac4f06757f81e2d70bea04e433ffceccaab72906d7a736c8e55c"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.i686-linux-gnu-cxx11-mpi+mpich.tar.gz"
-[[Silo]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "4953c1da4a803a64654496103cbfe7edebc947fa"
-libc = "glibc"
-mpi = "mpitrampoline"
-os = "linux"
-
-    [[Silo.download]]
-    sha256 = "778fde863699f850690c661883bc6af370d59395088979f8fed7cfc45fed8dad"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.i686-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
-[[Silo]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "c9d2d00ed3977eb2b07acd7195af673460191725"
-libc = "glibc"
-mpi = "openmpi"
-os = "linux"
-
-    [[Silo.download]]
-    sha256 = "c07c0832a98946dd1bcea3a952432067555b825aa7fe6d05e6860831065875e4"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.i686-linux-gnu-cxx11-mpi+openmpi.tar.gz"
-[[Silo]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "d50df74ce348a1e3fc1c39fd57a0a7cbaef55e12"
-libc = "musl"
-mpi = "mpich"
-os = "linux"
-
-    [[Silo.download]]
-    sha256 = "7b8ba239eab5cd9316f338c8d8c30f5f72f1177d7f3dcb72ad1658ffaeafb3de"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.i686-linux-musl-cxx03-mpi+mpich.tar.gz"
-[[Silo]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "e842db78733cb8d287b74e607d5588012603c077"
-libc = "musl"
-mpi = "openmpi"
-os = "linux"
-
-    [[Silo.download]]
-    sha256 = "e94945b596c710ba36125a80d634cd9c4c0d4425b8e1e8a424da204c3313d774"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.i686-linux-musl-cxx03-mpi+openmpi.tar.gz"
-[[Silo]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "d50df74ce348a1e3fc1c39fd57a0a7cbaef55e12"
-libc = "musl"
-mpi = "mpich"
-os = "linux"
-
-    [[Silo.download]]
-    sha256 = "7b8ba239eab5cd9316f338c8d8c30f5f72f1177d7f3dcb72ad1658ffaeafb3de"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.i686-linux-musl-cxx11-mpi+mpich.tar.gz"
-[[Silo]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "e842db78733cb8d287b74e607d5588012603c077"
-libc = "musl"
-mpi = "openmpi"
-os = "linux"
-
-    [[Silo.download]]
-    sha256 = "e94945b596c710ba36125a80d634cd9c4c0d4425b8e1e8a424da204c3313d774"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.i686-linux-musl-cxx11-mpi+openmpi.tar.gz"
-[[Silo]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "1c5ecaff53e38beca0326b8e642e4186aa1d56e1"
-libc = "glibc"
-mpi = "mpich"
-os = "linux"
-
-    [[Silo.download]]
-    sha256 = "aaa002e591a4fdde6422fcb874ff7d453ab9d33f6594fd9bc4860017f6aea700"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.powerpc64le-linux-gnu-cxx03-mpi+mpich.tar.gz"
-[[Silo]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "01d3882674966e9b893d5a42f81b3d5bdc57d6b3"
-libc = "glibc"
-mpi = "mpitrampoline"
-os = "linux"
-
-    [[Silo.download]]
-    sha256 = "0b2be576822c2936dfc036484ab15873dc1314ea275e6de4a1354c6417c3b86c"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.powerpc64le-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
-[[Silo]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "f4b5e3de50ae7ec48a360f3c44e146753aed7d77"
-libc = "glibc"
-mpi = "openmpi"
-os = "linux"
-
-    [[Silo.download]]
-    sha256 = "2eb6f27a3f829bb4ab7a7a4166dbe6a6ab74949a4b9446c427aac3bf8ad66095"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.powerpc64le-linux-gnu-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "1da17667fe262678fa2d8c3f66076fd24c0e9d44bf8cc6acbe3a93fa8f4cb1d9"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.i686-w64-mingw32-cxx11-mpi+microsoftmpi.tar.gz"
 [[Silo]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1c5ecaff53e38beca0326b8e642e4186aa1d56e1"
+git-tree-sha1 = "ad52f449b4442bca723e41cd5b9e6f789484efa7"
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[Silo.download]]
-    sha256 = "aaa002e591a4fdde6422fcb874ff7d453ab9d33f6594fd9bc4860017f6aea700"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.powerpc64le-linux-gnu-cxx11-mpi+mpich.tar.gz"
+    sha256 = "e164a76999fa172daeb7e8c8ce9ea7f323d9dc6465b27d535dd1231a9e6fa5b1"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.powerpc64le-linux-gnu-cxx11-mpi+mpich.tar.gz"
 [[Silo]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "01d3882674966e9b893d5a42f81b3d5bdc57d6b3"
+git-tree-sha1 = "4131160e516dddc80a4630e2f0698ae8eb245d7b"
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[Silo.download]]
-    sha256 = "0b2be576822c2936dfc036484ab15873dc1314ea275e6de4a1354c6417c3b86c"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.powerpc64le-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "0f9a25f9712f1bd51fc1bc28a009d3c19c27c1ad00b442bbff08c558f9634d68"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.powerpc64le-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
 [[Silo]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f4b5e3de50ae7ec48a360f3c44e146753aed7d77"
+git-tree-sha1 = "8d63f7080c0aa50d74665e7f1a82be1b0b1ec3e0"
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[Silo.download]]
-    sha256 = "2eb6f27a3f829bb4ab7a7a4166dbe6a6ab74949a4b9446c427aac3bf8ad66095"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.powerpc64le-linux-gnu-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "f4c7054d32587081227cab8a1411ce4a40b3f751b4edfc7039e11ce59d91bc81"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.powerpc64le-linux-gnu-cxx11-mpi+openmpi.tar.gz"
 [[Silo]]
 arch = "riscv64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "6e08710a195f5030b2e86fc77a0b47dc2d7b7544"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2eb40f69c6774a1d451cd83af17fd0f65e6efaba"
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[Silo.download]]
-    sha256 = "bf1ab54fcd488cc45e17d22965dfdb8d14750947d37d4063cb7b9bda2d7b2340"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.riscv64-linux-gnu-cxx03-mpi+mpich.tar.gz"
+    sha256 = "bc0e4ba60c351cdb222c189c47a9a392db73716150fd7975e65332b933e3f638"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.riscv64-linux-gnu-cxx11-mpi+mpich.tar.gz"
 [[Silo]]
 arch = "riscv64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "df5a0b7017a4cb678febc8b1fbfb2264d49ff9d1"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "754f6f1d60e57abb61f66e911e541f2701ebf1cd"
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[Silo.download]]
-    sha256 = "bd61310a2de872c0e415d0e993ea9da3cca2a6b3ba21d5090efd44663cb431ee"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.riscv64-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "fead53117e44bf3d3887b3281cbb09541b693b7295d085671958fd71803ba035"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.riscv64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
 [[Silo]]
 arch = "riscv64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "cf446d5c2212ec2cb24ecfb794c293a185ece283"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cdd64848d69762073b59bb8d380da259eff59c58"
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[Silo.download]]
-    sha256 = "0c7b062b799a9cb7f5104bbf10cade93b18a2319a30687de9461b08f6b6dd78b"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.riscv64-linux-gnu-cxx03-mpi+openmpi.tar.gz"
-[[Silo]]
-arch = "riscv64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "6e08710a195f5030b2e86fc77a0b47dc2d7b7544"
-libc = "glibc"
-mpi = "mpich"
-os = "linux"
-
-    [[Silo.download]]
-    sha256 = "bf1ab54fcd488cc45e17d22965dfdb8d14750947d37d4063cb7b9bda2d7b2340"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.riscv64-linux-gnu-cxx11-mpi+mpich.tar.gz"
-[[Silo]]
-arch = "riscv64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "df5a0b7017a4cb678febc8b1fbfb2264d49ff9d1"
-libc = "glibc"
-mpi = "mpitrampoline"
-os = "linux"
-
-    [[Silo.download]]
-    sha256 = "bd61310a2de872c0e415d0e993ea9da3cca2a6b3ba21d5090efd44663cb431ee"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.riscv64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
-[[Silo]]
-arch = "riscv64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "cf446d5c2212ec2cb24ecfb794c293a185ece283"
-libc = "glibc"
-mpi = "openmpi"
-os = "linux"
-
-    [[Silo.download]]
-    sha256 = "0c7b062b799a9cb7f5104bbf10cade93b18a2319a30687de9461b08f6b6dd78b"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.riscv64-linux-gnu-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "e8b358e4544049ea49dd14a56094fc5bb89edaa053550094ba36e5771b65ce9f"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.riscv64-linux-gnu-cxx11-mpi+openmpi.tar.gz"
 [[Silo]]
 arch = "x86_64"
-git-tree-sha1 = "aeb40f23c688c3950120cd9958642faa2a8c2a08"
+git-tree-sha1 = "cb7ab699ad26abb541df0debcea71dc3e5f3086a"
 mpi = "mpich"
 os = "macos"
 
     [[Silo.download]]
-    sha256 = "aa43b4e91d11e8123f2cd7f42b064777f12a15ae53a3da0d4dab7e9b27b089dc"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.x86_64-apple-darwin-mpi+mpich.tar.gz"
+    sha256 = "4d9d7a6a0259c628c78cc3eeae18d199fc150b9e5dfeb32c737c327c639cb654"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.x86_64-apple-darwin-mpi+mpich.tar.gz"
 [[Silo]]
 arch = "x86_64"
-git-tree-sha1 = "1396284234ca662b2b385f2b93ab5e8ff35dadbb"
+git-tree-sha1 = "f8875198bf72b83aa84e7f2685b7c8e15b9f779f"
 mpi = "mpitrampoline"
 os = "macos"
 
     [[Silo.download]]
-    sha256 = "bd04666cd9a5bd7261708f2f04764fc0b9007619dbc353ab2fa6a10a19793a18"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.x86_64-apple-darwin-mpi+mpitrampoline.tar.gz"
+    sha256 = "d88eeedc62c6d2b51ff0e56dc77d0c097a3a1a5f820c8a68adfe9025eaac2471"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.x86_64-apple-darwin-mpi+mpitrampoline.tar.gz"
 [[Silo]]
 arch = "x86_64"
-git-tree-sha1 = "ec8f23e9cb7e6dc9ef9b02a44aab6b4cf88ff601"
+git-tree-sha1 = "aa2e1d68987fc303106b58f47749b310de1f78e2"
 mpi = "openmpi"
 os = "macos"
 
     [[Silo.download]]
-    sha256 = "12ac9bb9d439697ea840cfc14f8364cdf7e7be4d34170bb99c23a51a82f596b2"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.x86_64-apple-darwin-mpi+openmpi.tar.gz"
+    sha256 = "6aa3b79eddbe2f49d04ea688e9e5604a78adc7f3b4bd1b7ba7c83e241677f7f7"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.x86_64-apple-darwin-mpi+openmpi.tar.gz"
 [[Silo]]
 arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "7a2d4f395358ba58f81120bd79ead9c7defbe5d1"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "76e6305be99d42570a20ff1543fe7cb0c0a053f7"
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[Silo.download]]
-    sha256 = "10be87e627596446485c2a90a992dc61bbebd4d17c98f0ef8fda58bb5b221030"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.x86_64-linux-gnu-cxx03-mpi+mpich.tar.gz"
+    sha256 = "d39fc745bd10611c7c782be86afbe5855ee21eea88f418f0c403fddc9514fdcb"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.x86_64-linux-gnu-cxx11-mpi+mpich.tar.gz"
 [[Silo]]
 arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "b374dd043b7ceba2ef612861e79c447a86422e90"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "161d5bd8de7c03ad21d2b15a6c76891a7c9252f3"
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[Silo.download]]
-    sha256 = "c059a884537632b0c27d64dfa0cc944d330107076b6fa8ebbf80c56bbf8696f9"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.x86_64-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "aaa856f8d81487138c0162f9e2390c9e7dad8aa7ce47cdab2ceceb0811f1f3e0"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.x86_64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
 [[Silo]]
 arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "77a4b3c95445bbf582343945689644639081edef"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cad9f2b4cfb4ef38fb0f41374ac18241ad4ce393"
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[Silo.download]]
-    sha256 = "47ce8de849f719ded9cee780f839450f2ada5f8e0272fbc3e04cb7ced8b511f7"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.x86_64-linux-gnu-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "f52a48fb52179183bf9005ace6ff85a24fa83bcd3cf2dd2e5d6becfee84c809d"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.x86_64-linux-gnu-cxx11-mpi+openmpi.tar.gz"
 [[Silo]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7a2d4f395358ba58f81120bd79ead9c7defbe5d1"
-libc = "glibc"
-mpi = "mpich"
-os = "linux"
-
-    [[Silo.download]]
-    sha256 = "10be87e627596446485c2a90a992dc61bbebd4d17c98f0ef8fda58bb5b221030"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.x86_64-linux-gnu-cxx11-mpi+mpich.tar.gz"
-[[Silo]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "b374dd043b7ceba2ef612861e79c447a86422e90"
-libc = "glibc"
-mpi = "mpitrampoline"
-os = "linux"
-
-    [[Silo.download]]
-    sha256 = "c059a884537632b0c27d64dfa0cc944d330107076b6fa8ebbf80c56bbf8696f9"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.x86_64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
-[[Silo]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "77a4b3c95445bbf582343945689644639081edef"
-libc = "glibc"
-mpi = "openmpi"
-os = "linux"
-
-    [[Silo.download]]
-    sha256 = "47ce8de849f719ded9cee780f839450f2ada5f8e0272fbc3e04cb7ced8b511f7"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.x86_64-linux-gnu-cxx11-mpi+openmpi.tar.gz"
-[[Silo]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "ca7fca56872ed8255f95865f7618869ff4c32395"
+git-tree-sha1 = "0cb90054e91d64ec38b411ec1ffb693e3b85e9c9"
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[Silo.download]]
-    sha256 = "679119c30868b7c735f89ec2d60b9a4837c3994519b97c26fd8e8ba84798889b"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.x86_64-linux-musl-cxx03-mpi+mpich.tar.gz"
+    sha256 = "9f819cf9e3d74702f1fc59b3d51f763013170e08a4aaa5fc948b1a78ca6ce017"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.x86_64-linux-musl-cxx11-mpi+mpich.tar.gz"
 [[Silo]]
 arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "d28e1d0b4953075841cc87432f10baaebbca465d"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "285273157ebe185aa9ffbb7bbd5d02d0feba6588"
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[Silo.download]]
-    sha256 = "efcea344ab459ea039bfaa193af4d27c64432388c921909bccb196bba98de18a"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.x86_64-linux-musl-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "5f659a4638884ed9efd66d429a99e273638d7ceb5c5bda2b00a6960fb5c16e3d"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.x86_64-linux-musl-cxx11-mpi+openmpi.tar.gz"
 [[Silo]]
 arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "ca7fca56872ed8255f95865f7618869ff4c32395"
-libc = "musl"
-mpi = "mpich"
-os = "linux"
-
-    [[Silo.download]]
-    sha256 = "679119c30868b7c735f89ec2d60b9a4837c3994519b97c26fd8e8ba84798889b"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.x86_64-linux-musl-cxx11-mpi+mpich.tar.gz"
-[[Silo]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "d28e1d0b4953075841cc87432f10baaebbca465d"
-libc = "musl"
-mpi = "openmpi"
-os = "linux"
-
-    [[Silo.download]]
-    sha256 = "efcea344ab459ea039bfaa193af4d27c64432388c921909bccb196bba98de18a"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.x86_64-linux-musl-cxx11-mpi+openmpi.tar.gz"
-[[Silo]]
-arch = "x86_64"
-git-tree-sha1 = "0d8628096330775c4a861365fbfe811a4f9f964d"
+git-tree-sha1 = "d0454ac858e5f50a142170225414d4d3c3940439"
 mpi = "mpich"
 os = "freebsd"
 
     [[Silo.download]]
-    sha256 = "43d93a12eab21f325092c8b3b60915eec40a5466c35c7b694c7d4128461b0fe9"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.x86_64-unknown-freebsd-mpi+mpich.tar.gz"
+    sha256 = "24388017dc6c4041ef85c37c3844660ae9b7d0b102d2ba376620fa69130ae0d3"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.x86_64-unknown-freebsd-mpi+mpich.tar.gz"
 [[Silo]]
 arch = "x86_64"
-git-tree-sha1 = "f1f0d0b5f883e84960a1ce5bd512fe649d8e8117"
+git-tree-sha1 = "8f23ba30f900ca7bd183f39bf41ae5d805c84d80"
 mpi = "mpitrampoline"
 os = "freebsd"
 
     [[Silo.download]]
-    sha256 = "4e861240f798d6b899dc5efe03a78c76f854e6e4c9dc734f4063677b38713a8d"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.x86_64-unknown-freebsd-mpi+mpitrampoline.tar.gz"
+    sha256 = "2a45859b57ef1f19e5200aa8da225ec927cbddff085e314c992e06a6754060d3"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.x86_64-unknown-freebsd-mpi+mpitrampoline.tar.gz"
 [[Silo]]
 arch = "x86_64"
-git-tree-sha1 = "18738a3d8e56b0e5cc8a62677aa295670cf216da"
+git-tree-sha1 = "18ff48dc1e31394af4e8aa974e1ac4215c990b4d"
 mpi = "openmpi"
 os = "freebsd"
 
     [[Silo.download]]
-    sha256 = "6d21f61f0ed58e526baa234787ad30ff1b9b9db11adc45435f45a0a93748a523"
-    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.11.1+0/Silo.v4.11.1.x86_64-unknown-freebsd-mpi+openmpi.tar.gz"
+    sha256 = "4857e4fb3785faa2b33d6779c02e41946ae74757cc89867808baf7d8c04d7967"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.x86_64-unknown-freebsd-mpi+openmpi.tar.gz"
+[[Silo]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e29851d268e072b399fb29037ebf636c985e5cb0"
+mpi = "microsoftmpi"
+os = "windows"
+
+    [[Silo.download]]
+    sha256 = "7cf63a559ff093806ad27634c605b9475b5d3f1b4e21bcebb4c1c86250316baf"
+    url = "https://github.com/JuliaBinaryWrappers/Silo_jll.jl/releases/download/Silo-v4.12.0+0/Silo.v4.12.0.x86_64-w64-mingw32-cxx11-mpi+microsoftmpi.tar.gz"
