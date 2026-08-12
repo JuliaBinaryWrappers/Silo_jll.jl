@@ -10,7 +10,7 @@ function __init__()
     JLLWrappers.@generate_init_header(HDF5_jll, Zlib_jll, MPICH_jll, MPIPreferences)
     JLLWrappers.@init_library_product(
         libsilo,
-        "lib/libsiloh5.4.12.0.dylib",
+        "lib/libsiloh5.4.12.1.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
